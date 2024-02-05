@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lylynaheng
+- 👋 Hi, I’m Lina.
 - 👀 I’m interested in designing for social good, especially in the education space because of its efficiency teaching students
 - 🌱 I'm currently exploring the field of AI in interactive learning experience for all. 
 - 💞️ I’m looking to collaborate on UX/UI design for social good and marketing design.
